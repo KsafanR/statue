@@ -1,0 +1,328 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 9206,
+      "max": [
+        2.2550950050354004,
+        -1.8711919784545898,
+        4.8517231941223145
+      ],
+      "min": [
+        0.91794699430465698,
+        -2.4079270362854004,
+        0.31785398721694946
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 110472,
+      "componentType": 5126,
+      "count": 9206,
+      "max": [
+        0.99999427795410156,
+        0.99999678134918213,
+        1
+      ],
+      "min": [
+        -0.99999880790710449,
+        -0.99998462200164795,
+        -0.99988722801208496
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 9206,
+      "max": [
+        0.99999809265136719,
+        0.99999469518661499,
+        0.99982571601867676,
+        1
+      ],
+      "min": [
+        -0.99999874830245972,
+        -1,
+        -0.99987238645553589,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 9206,
+      "max": [
+        1,
+        0.77239298820495605
+      ],
+      "min": [
+        0,
+        0.22760799527168274
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 45456,
+      "max": [
+        9205
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 220944,
+      "componentType": 5126,
+      "count": 423,
+      "max": [
+        2.667625904083252,
+        -1.087149977684021,
+        0.32355800271034241
+      ],
+      "min": [
+        0.51268398761749268,
+        -3.2420909404754639,
+        0.021544000133872032
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 226020,
+      "componentType": 5126,
+      "count": 423,
+      "max": [
+        0.99933731555938721,
+        0.99933731555938721,
+        0.99532812833786011
+      ],
+      "min": [
+        -0.99933731555938721,
+        -0.99933731555938721,
+        -0.99126201868057251
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 147296,
+      "componentType": 5126,
+      "count": 423,
+      "max": [
+        1,
+        1,
+        0.64134448766708374,
+        1
+      ],
+      "min": [
+        -0.99999368190765381,
+        -1,
+        -0.64134448766708374,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 73648,
+      "componentType": 5126,
+      "count": 423,
+      "max": [
+        1,
+        1
+      ],
+      "min": [
+        0,
+        0.011082000099122524
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 181824,
+      "componentType": 5125,
+      "count": 1524,
+      "max": [
+        422
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "tao guanyu (https://sketchfab.com/gerrytao)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/le-corbusier-modulorfigurehuman-scale-34f725b3a69641869a18954d55927ec0",
+      "title": "Le Corbusier Modulor|Figure|Human scale"
+    },
+    "generator": "Sketchfab-5.18.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 187920,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 77032,
+      "byteOffset": 187920,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 231096,
+      "byteOffset": 264952,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 154064,
+      "byteOffset": 496048,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 650112,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.45304591960000001,
+          0.45304591960000001,
+          0.45304591960000001,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "None",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.80000000000000004,
+          0.80000000000000004,
+          0.80000000000000004,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "Le corbusier Modulor.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
